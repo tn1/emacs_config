@@ -5,7 +5,7 @@
  '(line-number-mode t)
  '(column-number-mode t)
  '(blink-cursor-mode t)
- '(mode-require-final-newline t)
+ '(require-final-newline t)
  '(initial-scratch-message nil)
  '(scroll-bar-mode nil)
  '(tool-bar-mode nil)
