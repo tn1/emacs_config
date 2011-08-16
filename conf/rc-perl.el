@@ -6,11 +6,11 @@
 (add-hook 'cperl-mode-hook
 	  (lambda ()
 	    (setq cperl-font-lock t)
-	    (setq cperl-auto-newline t)
-	    (setq cperl-electric-parens t)
+;	    (setq cperl-auto-newline t)
+;	    (setq cperl-electric-parens t)
 	    (setq cperl-tab-always-indent t)
 
-;	    (setq cperl-electric-keywords t)
+	    (setq cperl-electric-keywords t)
 ;	    (setq cperl-electric-lbrace-space t)
 ;	    (setq cperl-lazy-help-time t)
 ;	    (setq cperl-info-on-command-no-prompt t)

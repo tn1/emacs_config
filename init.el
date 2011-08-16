@@ -5,13 +5,13 @@
 (load "~/.emacs.d/conf/rc-theme.el")
 
 ;;emacs variable
-(load "~/.emacs.d/conf/rc-var.el")
+(load "~/.emacs.d/conf/rc-set.el")
 
 ;;emacs decor
-(load "~/.emacs.d/conf/rc-decor.el")
+(load "~/.emacs.d/conf/rc-mod.el")
 
-;;haskell mode/ghc-mod
+;;haskell
 (load "~/.emacs.d/conf/rc-haskell.el")
 
-;;cperl mode
+;;perl
 (load "~/.emacs.d/conf/rc-perl.el")
